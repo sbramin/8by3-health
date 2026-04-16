@@ -8,6 +8,14 @@ sites:
     url: https://winkl.net
   - name: 8by3
     url: https://8by3.com
+  - name: Terug
+    url: https://terug.co.za
+  - name: Werkr
+    url: https://werkr.co.za
+  - name: Tuhat
+    url: https://tuhat.net
+  - name: Brug
+    url: https://brug.co.za
 
 status-website:
   cname: status.8by3.com
