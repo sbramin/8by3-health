@@ -1,7 +1,7 @@
 url: https://tuhat.net
-status: up
-code: 200
-responseTime: 790
-lastUpdated: 2026-04-23T23:15:27.297Z
+status: down
+code: 503
+responseTime: 1231
+lastUpdated: 2026-04-24T06:02:25.228Z
 startTime: 2026-04-16T08:05:19.739Z
 generator: Upptime <https://github.com/upptime/upptime>
