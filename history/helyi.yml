@@ -1,7 +1,7 @@
 url: https://helyi.net
-status: up
-code: 200
-responseTime: 1438
-lastUpdated: 2026-05-02T23:53:41.716Z
+status: down
+code: 503
+responseTime: 8812
+lastUpdated: 2026-05-03T16:58:30.032Z
 startTime: 2026-04-16T07:38:11.569Z
 generator: Upptime <https://github.com/upptime/upptime>
